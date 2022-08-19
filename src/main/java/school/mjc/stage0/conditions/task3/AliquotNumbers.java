@@ -11,10 +11,11 @@ public class AliquotNumbers {
     	} else 
     		System.out.println("Not aliquot");
     }
-    
+    /**
     public static void main(String[] args) {
     	AliquotNumbers an = new AliquotNumbers();
     	an.isFirstAliquot(7, 8);
     }
+    **/
 }
 
